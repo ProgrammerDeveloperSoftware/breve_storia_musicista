@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    padding-top: 50px;
+}
+
+#contenitore_pagina{
+    width: 650px;
+    height: 650px;
+    margin: auto;
+    background-color: lightgreen;
+}
+
+#img_musicista{
+    width: 120px;
+    height: 120px;
+    padding-left: 265px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+
+h1{
+    text-align: center;
+    padding-top: 7px;
+    color: rgb(38, 38, 255);
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+#contenuto1{
+    border-top: 5px solid rgb(199, 198, 198);
+    border-left: 5px solid rgb(199, 198, 198);
+    border-bottom: 5px solid gray;
+    border-right: 5px solid gray;
+    width: 522px;
+    height: 350px;
+    margin-left: 65px;
+}
+
+#contenuto2{
+    width: 500px;
+    height: 328px;
+    border: 5px solid wheat;
+    padding: 6px;
+}
+
+#testo1, #testo2, #testo3{
+    color: rgb(38, 38, 255);
+    font-weight: bold;
+}
+
+ul{
+    padding-left: 50px;
+    padding-top: 15px;
+}
+
+li{
+    color: rgb(38, 38, 255);
+    text-decoration: underline;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
